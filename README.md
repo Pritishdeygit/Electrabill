@@ -112,21 +112,6 @@ DB_PASSWORD = "your_password";
 
 ---
 
-## Project Structure (Example)  
-
-Electrabill/
-│
-├── src/
-│ ├── main/
-│ │ ├── ui/ # All Swing UI screens
-│ │ ├── db/ # Database connection classes
-│ │ ├── billing/ # Billing calculation logic
-│ │ └── Main.java # Application entry point
-│
-├── sql/
-│ └── electrabill.sql # Database dump (optional)
-│
-└── README.md
 
 
 
